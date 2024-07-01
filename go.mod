@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/pkg/errors v0.9.1
-	golang.org/x/net v0.0.0-20201209123823-ac852fbbde11
+	golang.org/x/net v0.26.0
 )
 
-require golang.org/x/text v0.3.4 // indirect
+require golang.org/x/text v0.16.0 // indirect
